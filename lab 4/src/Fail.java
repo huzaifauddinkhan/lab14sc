@@ -24,6 +24,7 @@
     }
     public int getroll(){
         return rollno;
+        
     }
 public static void main(String[] args) {
     Fail obj = new Fail("Software Requirment Eng",202,145);
@@ -31,6 +32,7 @@ public static void main(String[] args) {
     System.out.println("Course:"+obj.getName()+"\n");
     System.out.println("CourseCode:"+obj.getCode()+"\n");
     System.out.println("Roll no:"+obj.getroll()+"\n");
+    system.out.println("huzaifa")
 }
 }
 
